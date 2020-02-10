@@ -13,10 +13,10 @@
 ## @link https://github.com/Chris-Prime/FactionsPE
 ##
 name: FactionsPE
-author: BlockHorizons
+author: RoseCrib
 authors:
-- Chris-Prime (@PrimusLV, @flipkris)
-- Sandertv (@Sandertv)
+- RoseCrib2833078 (@RoseCrib2833078, @RoseCrib)
+- RoseCrib (@RoseCrib)
 api: [3.0.0, 4.0.0]
 main: factions\FactionsPE
 version: 1.2.4
