@@ -32,10 +32,10 @@ class Version extends Command {
 			"version" => $this->getPlugin()->getDescription()->getVersion(),
 			]));
 		$sender->sendMessage(Localizer::translatable("author", [
-			"author" => "Chris-Prime (@PrimusLV (Kristaps Drivnieks)), Sandertv {@Sandertv}"
+			"author" => "RoseCrib2833078 (@RoseCrib (Mr_Ender)), Cosmin {@Cosmin104366}"
 			]));
 		$sender->sendMessage(Localizer::translatable("organization", [
-			"organization" => "BlockHorizons (https://github.com/BlockHorizons/FactionsPE)"
+			"organization" => "MagicLounge (magiclounge.nukkit.net:22027)"
 			]));
 		return true;
 	}
