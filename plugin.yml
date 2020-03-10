@@ -13,10 +13,7 @@
 ## @link https://github.com/Chris-Prime/FactionsPE
 ##
 name: FactionsPE
-author: RoseCrib
-authors:
-- RoseCrib2833078 (@RoseCrib2833078, @RoseCrib)
-- RoseCrib (@RoseCrib)
+author: ChrisWePrime
 api: [3.0.0, 4.0.0]
 main: factions\FactionsPE
 version: 1.2.4
